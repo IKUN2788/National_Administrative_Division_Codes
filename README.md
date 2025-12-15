@@ -1,3 +1,5 @@
+<img width="536" height="956" alt="image" src="https://github.com/user-attachments/assets/c322ec2a-593a-458f-b151-3f28a0621cb8" />
+
 # 🐍 Python 爬虫实战：2025年最新全国行政区划代码抓取（解决反爬与动态加载）
 
 > **摘要**：本文详细介绍如何使用 Python 编写一个健壮的爬虫，从目标网站抓取中国最新的省、市、县三级行政区划代码。我们将重点攻克 SSL 验证错误、动态 JS 链接解析以及服务器反爬限制等技术难点，最终输出结构化的 CSV 和 JSON 数据。
